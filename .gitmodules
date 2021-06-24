@@ -1,0 +1,3 @@
+[submodule "ddgj"]
+	path = ddgj
+	url = https://github.com/hanjingfang/ddgj.git
